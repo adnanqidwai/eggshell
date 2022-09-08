@@ -1,0 +1,20 @@
+q
+tar -czf 2021101115_Assignment2.tar.gz *
+sleep 1
+sleep 2 &
+q
+sleep 1
+sleep 2&
+q
+[Aq
+sleep 2&
+sleep 1
+clear
+discover "egg.txt"
+eg
+egg
+gegg
+eg
+egg
+q
+yes
